@@ -8,3 +8,23 @@ wheels/
 
 # Virtual environments
 .venv
+gemini.py
+input1
+*.zip
+books
+books_1
+extractedtext
+extractedtext1
+output
+summary
+summary1
+extracted
+extracted1
+input
+input1
+input2
+extracted2
+Project Data
+*.pdf
+*.txt
+
